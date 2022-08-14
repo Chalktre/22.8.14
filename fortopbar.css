@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* 每个css必备初始化浏览器 */
+
+div {
+    width: 1000px;
+    border-top: 3px;
+    border-bottom: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-top-color: orange;
+    border-bottom-color: gray;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    background-color: white;
+    color: #4c4c4c;
+}
+
+a:hover {
+    background-color: rgb(218, 218, 218);
+}

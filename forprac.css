@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#mod {
+    width: 350px;
+    height: 500px;
+    border: 1px gray solid;
+}
+
+#img {
+    height: 250px;
+    background-image: url(../image/img2.jpg);
+    background-size: auto;
+    border-bottom: 1px transparent;
+    background-position: 100%;
+}
+
+.jd {
+    display: inline-block;
+    height: 500px;
+    width: 350px;
+}
+
+#preview {
+    height: 125px;
+    border-top: 1px transparent;
+}
+
+#jd2 {
+    margin: 40px;
+    text-decoration: none;
+    color: #333;
+    display: inline-block;
+}
+
+#info {
+    padding: 20px 40px 0px;
+}
+
+#rv {
+    font-size: small;
+    color: rgb(146, 146, 146);
+    /* text-indent: 2em; */
+}
+
+#in {
+    /* text-indent: 2em; */
+    color: #333;
+    text-decoration: none;
+}
+
+#pr {
+    color: orange;
+    text-decoration: none;
+}
